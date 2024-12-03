@@ -11,7 +11,8 @@ I am passionate about building innovative web applications and creating seamless
 - TypeORM  
 - C#  
 - MSSQL  
-- PostgreSQL  
+- PostgreSQL
+- Javascript 
 <!-- Öğrendiğim ve Üzerinde Çalıştığım Teknolojiler: NestJS, TypeORM, C#, MSSQL, PostgreSQL -->
 
 **Collaboration Opportunities**  
